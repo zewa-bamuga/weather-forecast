@@ -1,0 +1,35 @@
+.header {
+    background-color: #fff;
+    width: 98%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
+}
+
+.content {
+    display: flex;
+}
+
+.contact-info {
+    display: flex;
+    align-items: center;
+}
+
+.phone,
+.email {
+    margin-right: 100px;
+    font-size: 16px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+.phone {
+    margin-right: 30px;
+}
+
+.acc {
+    font-family: 'Nobile', sans-serif;
+    color: black;
+}
